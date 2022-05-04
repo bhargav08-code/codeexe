@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  opacity: 0;
 }
 .navbar {
   background: #1c1c1c;
